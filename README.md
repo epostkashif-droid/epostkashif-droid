@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Kashif!
 
-<!--
-**epostkashif-droid/epostkashif-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building useful apps. Solving everyday problems. Sharing what I learn.
 
-Here are some ideas to get you started:
+I'm an independent app builder and technology enthusiast who enjoys turning ideas into practical digital tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm working on
+
+- Productivity apps and everyday utilities
+- Simple, interactive web tools anyone can use
+- Android apps and digital experiments
+- Exploring how AI can help turn ideas into working products
+
+🌍 My mission
+
+Build small, useful things that make people's lives easier — and share them with the world.
+
+💡 Have an idea, feedback, or a problem worth solving? I'd love to hear from you!
+
+🔗 "Connect with me on LinkedIn" (https://www.linkedin.com/in/kashifnowman/)
